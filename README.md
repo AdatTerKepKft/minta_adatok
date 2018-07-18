@@ -1,7 +1,7 @@
 # A [weboldalon](https://adatterkep.com) említett mintaadatok gyűjteménye
 
 
-**postalCodeZonesHungary.geojson**
+**[postalCodeZonesHungary.geojson](postalCodeZonesHungary.geojson)**
 
 Magyarország irányítószám-körzetei _Forrás: OpenStreetMap (2018. április)_
 
