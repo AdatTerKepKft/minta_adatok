@@ -12,6 +12,14 @@ Magyarország településeinek lakosság és terület adatai (ezres tagoló szó
 
 Blog: [R - Leíró statisztika és korrelációs mátrix készítése](https://adatterkep.com/r-leiro-statisztika-es-korrelacios-matrix-keszitese)
 
+**[hungary_epsg23700.geojson](hungary_epsg23700.geojson)**  
+
+Magyarország ország polygonja EPSG:23700 (EOV) vetületben. _Forrás: https://geojson-maps.ash.ms/ (2020. március)_
+
+**[hungary_epsg4326.geojson](hungary_epsg4326.geojson)**  
+
+Magyarország ország polygonja EPSG:4326 (WGS84) vetületben. _Forrás: https://geojson-maps.ash.ms/ (2020. március)_
+
 **[postalCodeZonesHungary.geojson](postalCodeZonesHungary.geojson)**
 
 Magyarország irányítószám-körzetei _Forrás: OpenStreetMap (2018. április)_
