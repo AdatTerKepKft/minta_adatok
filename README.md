@@ -1,5 +1,11 @@
 # A [weboldalon](https://adatterkep.com) említett mintaadatok gyűjteménye
 
+**[dwgKonvertalasaShpFormatumba.zip](dwgKonvertalasaShpFormatumba.zip)**
+
+FreeTR Project mintaállományát felhasználva a lakóépületek konvertálása DWG formátumból SHP-ba. _Forrás: [FreeTR Project](http://freetr.hu/)_
+
+Blog: [DWG konvertálása SHP formátumba](https://adatterkep.com/dwg-konvertalasa-shp-formatumba)
+
 **[helysegnevtar.csv](helysegnevtar.csv)**
 
 Magyarország településeinek lakosság és terület adatai _Forrás: KSH Helységnévtár (2018. szeptember)_
